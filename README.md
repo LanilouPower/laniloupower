@@ -1,12 +1,11 @@
 ## Привет! Меня зовут Данил и я начинающий аналитик данных
 Прошёл курс Яндекс.Практикум "Аналитик данных". Хочу и дальше развиваться в этой сфере, потому что это очень интересное направление. Аналитика позволяет бизнесу определять свои сильные и слабые стороны, а также выявлять возможности для роста и развития. 
 
-### Связаться со мной:
-<a href="https://t.me/lanilou">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="30" height="30" alt=Telegram /> 
-      
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ivanov.dadm@gmail.com)      
+___
 
+Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/lanilou) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ivanov.dadm@gmail.com)   
+
+___
 
 ### Инструменты:
 <img align="left" alt="Python" width="50px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />

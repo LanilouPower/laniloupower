@@ -13,6 +13,11 @@ ___
 
 ___
 
+### Codewars: 
+![codewars](https://www.codewars.com/users/Lanilou/badges/large)   
+
+___
+
 ### Инструменты:
 <img align="left" alt="Python" width="50px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Pandas" width="50px" img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original.svg" />
